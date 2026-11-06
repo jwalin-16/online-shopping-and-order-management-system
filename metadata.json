@@ -1,0 +1,6 @@
+{
+  "name": "AURA Online Store & Order Management",
+  "description": "A modern responsive e-commerce platform with dual Customer and Admin perspectives, real-time product search, cart operations, multi-step checkout, and inventory tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
